@@ -1,0 +1,88 @@
+{
+    "books": [
+        {
+            "title": "BRIMSTONE",
+            "author": "Callie Hart",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9781538774229.jpg",
+            "rank": 1,
+            "description": "The second book in the Fae & Alchemy series. To save those close to them, Saeris and Fisher face a new set of dangers."
+        },
+        {
+            "title": "THE SEVEN RINGS",
+            "author": "Nora Roberts",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9781250288790.jpg",
+            "rank": 2,
+            "description": "The third book in the Lost Bride Trilogy. Sonya fights across two realms to take possession of a haunted manor."
+        },
+        {
+            "title": "QUICKSILVER",
+            "author": "Callie Hart",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9781538774205.jpg",
+            "rank": 3,
+            "description": "Saeris is transported to a dangerous land of ice and snow, where she must contend with a Fae warrior who has suspect agendas."
+        },
+        {
+            "title": "RETURN OF THE SPIDER",
+            "author": "James Patterson",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780316569569.jpg",
+            "rank": 4,
+            "description": "The 34th book in the Alex Cross series. An enemy\u2019s murder book suggests Cross may have made rookie mistakes years ago."
+        },
+        {
+            "title": "THE WIDOW",
+            "author": "John Grisham",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780385548984.jpg",
+            "rank": 5,
+            "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer."
+        },
+        {
+            "title": "THE SECRET OF SECRETS",
+            "author": "Dan Brown",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+            "rank": 6,
+            "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project."
+        },
+        {
+            "title": "NASH FALLS",
+            "author": "David Baldacci",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9781538757987.jpg",
+            "rank": 7,
+            "description": "A successful businessman\u2019s life is turned upside down when he is recruited by the F.B.I. to stop a large money laundering scheme."
+        },
+        {
+            "title": "THE BOND THAT BURNS",
+            "author": "Briar Boleyn",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780778306276.jpg",
+            "rank": 8,
+            "description": "The second book in the Bloodwing Academy series. When a dragon is awakened, bonds are tested and lives are threatened."
+        },
+        {
+            "title": "EXIT STRATEGY",
+            "author": "Lee Child and Andrew Child",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780593725849.jpg",
+            "rank": 9,
+            "description": "The 30th book in the Jack Reacher series. Reacher\u2019s interest is piqued when he finds a handwritten note in his pocket."
+        },
+        {
+            "title": "ALCHEMISED",
+            "author": "SenLinYu",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+            "rank": 10,
+            "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories."
+        },
+        {
+            "title": "THE COLOR OF HOPE",
+            "author": "Danielle Steel",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780593498828.jpg",
+            "rank": 11,
+            "description": "A widowed art gallery owner moves to the Basque countryside, where she transforms a chateau and develops a new relationship."
+        },
+        {
+            "title": "THE CORRESPONDENT",
+            "author": "Virginia Evans",
+            "book_image": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg",
+            "rank": 12,
+            "description": "Letters from someone she used to know push Sybil Van Antwerp toward revisiting her past and finding a way to forgive."
+        }
+    ]
+}
